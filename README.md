@@ -3,3 +3,5 @@ An algorithm which utilizes web-scrapping, Pandas, and Seaborn to process and di
 *Note that if the PWS does not contain datasets for a given month or year, the program will yield an empty graph.
 
 This project is licensed under the MIT License.
+
+More description to come! Stay tuned!
